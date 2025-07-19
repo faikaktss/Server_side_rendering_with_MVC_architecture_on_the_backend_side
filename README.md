@@ -60,7 +60,7 @@ Nodejs_Proje/
 ```
 
 ## 🔌 Kullanılan Teknolojiler
-
+.
 - Node.js
 - Express.js
 - TypeScript
